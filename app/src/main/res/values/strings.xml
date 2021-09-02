@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">istfind</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="istfind1">istfind</string>
+    <string name="places">PLACES</string>
+    <string name="wizard1">WIZARD</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="made_in_istanbul_with">made in istanbul with ❤</string>
+    <string name="todo3">TODO3</string>
+    <string name="istfind2">istfind</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_final_maps">Map</string>
+    <string name="wizard2">WIZARD</string>
+    <string name="how_many_days_will_you_stay_in_stanbul">How many days will you stay in İstanbul?</string>
+    <string name="let_s_see">LET\'S SEE!</string>
+    <string name="you_can_find_great_suggestions_for_your_stanbul_trip_via_our_wizard">you can find great suggestions for your İstanbul trip via our wizard</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+</resources>
